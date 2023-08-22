@@ -8,7 +8,7 @@
 
 
 - First drag and drop the file in you server files
-- For support My Discord Id :yorik._
+- For support My Discord Id : yorik._
 
 **DEPENDENCIES**
 -----
